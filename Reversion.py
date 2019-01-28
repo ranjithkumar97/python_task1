@@ -5,6 +5,6 @@ z = str(3.0)  # z will be '3.0'
 thistuple = ("apple", "banana", "cherry")
 print(thistuple)
 
-print("yopur results")
+print("your results")
 x = datetime.datetime.now()
 print(x)
